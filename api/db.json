@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "My Stream is power",
+      "description": "Very Good Stream",
+      "id": 1
+    },
+    {
+      "title": "Programmatic Navigation ",
+      "description": "Redirect to home",
+      "userId": "113992204758959413053",
+      "id": 3
+    },
+    {
+      "title": "Code Refactor Done",
+      "description": "Component Reusing Done",
+      "id": 6
+    }
+  ]
+}
