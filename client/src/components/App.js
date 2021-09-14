@@ -31,7 +31,7 @@ const App = () => {
                <Route path="/stream/delete/:id" exact>
                   <StreamDelete/>
                </Route>
-               <Route path="/stream/show" exact>
+               <Route path="/stream/:id" exact>
                   <StreamShow/>
                </Route>                      
             </Switch> 
